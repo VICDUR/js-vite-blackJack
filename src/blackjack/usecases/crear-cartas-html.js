@@ -15,7 +15,6 @@ export const crearCartasHtml = ( carta )=>{
 
         return imgCarta;
         
-
 };
 
 
